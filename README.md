@@ -5,7 +5,7 @@ Written using the SDL library.
 # What's included?
 In this repository, you will also find:
 - An "Unstable_isotopes.csv" file required for full functionality - The data inside comes from List of nuclides, [https://en.wikipedia.org/w/index.php?title=List_of_nuclides&oldid=1286734358](https://en.wikipedia.org/w/index.php?title=List_of_nuclides&oldid=1286734358) (last visited Apr. 28, 2025)., so this file I'm also making available under GPLv3 - a [CC-BY-SA compatible license](https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses/). 
-- A correctly formatted input type - start.txt - containing the data for the isotope 205At.
+- A correctly formatted input type - start.txt - containing the data for the isotope 235U.
 # How to use?
 ## Libraries
 - SDL: disclosed later
@@ -13,7 +13,7 @@ In this repository, you will also find:
 - SDL_ttf: [here](https://github.com/libsdl-org/SDL_ttf)
 ## Using the precompiled .exe file
 
-Just make sure all the files and folders included are in the same folder.
+Just make sure all the files and folders included are in the same folder. (the file is named graphic.exe)
 ## Using the .sln file
 
 For development, I was using the files included in Vulkan. Make sure all the libraries are linked correctly, including the .dll and .lib files.
