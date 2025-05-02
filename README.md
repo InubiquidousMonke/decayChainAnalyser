@@ -19,6 +19,7 @@ Just make sure all the files and folders included are in the same folder. (the f
 For development, I was using the files included in Vulkan. Make sure all the libraries are linked correctly, including the .dll and .lib files.
 ## Compiling with something else than VS
 glhf
+
 For all seriousness though, some help would be appreciated - including some compile errors or irresponsible code decisions.
 
 # Legal
